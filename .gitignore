@@ -41,3 +41,6 @@ app-example
 # local project
 ios
 android
+
+# package
+package-lock.json
